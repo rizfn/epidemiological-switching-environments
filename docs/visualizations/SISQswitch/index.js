@@ -13,7 +13,7 @@
 // ---------------------------------------------------------------- parameters
 const GAMMA = 1.0;
 const ENVS = [
-  { beta: 1.0, omega: 10.0, v: 0.0, gamma: GAMMA, name: 'Environment 1' },
+  { beta: 0.9, omega: 9.0, v: 0.0, gamma: GAMMA, name: 'Environment 1' },
   { beta: 1.5, omega: 1.0, v: 1.0, gamma: GAMMA, name: 'Environment 2' },
 ];
 
