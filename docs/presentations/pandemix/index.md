@@ -96,6 +96,8 @@ Switch at rate **$\alpha$**
 #### $\alpha\to 0$: Fixed environment
 
 
+![bg fit right:16%](../fig/pandemix/vector_field_sum.svg)
+
 $$
 \begin{alignat*}{2}
 \frac{\mathrm dS}{\mathrm dt} &= \omega (1-I-S) - v S - \beta S I + \gamma I &&= 0 \\
