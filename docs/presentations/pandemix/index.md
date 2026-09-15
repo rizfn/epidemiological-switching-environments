@@ -36,6 +36,11 @@ $\quad$**Stringency** $\qquad\qquad$ **Excess mortality**
 
 ![width:900px](../fig/pandemix/canada-france-data.png)
 
+
+---
+
+![bg center width:40%](../fig/pandemix/ruc_logo.png)
+
 ---
 
 ## Mechanism
@@ -172,10 +177,10 @@ $\lambda < 0$: Exponential decay
 
 ### Critical rate
 
-* $\mu=\omega+v$ (rate of leaving the susceptible pool)
-* $s=\frac{\omega}{\omega+v}$ (disease-free susceptible fraction)
-* $A=2-\beta_1s_1-\beta_2s_2$ (how badly it loses)
-* $G=\left(\frac{\beta_1}{\mu_1}-\frac{\beta_2}{\mu_2}\right)(s_2-s_1)$ (gain from switching)
+- $\mu=\omega+v$ (rate of leaving the susceptible pool)
+- $s=\frac{\omega}{\omega+v}$ (disease-free susceptible fraction)
+- $A=2-\beta_1s_1-\beta_2s_2$ (how badly it loses)
+- $G=\left(\frac{\beta_1}{\mu_1}-\frac{\beta_2}{\mu_2}\right)(s_2-s_1)$ (gain from switching)
 
 $\\$
 
